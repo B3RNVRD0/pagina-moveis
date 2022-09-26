@@ -1,0 +1,1650 @@
+
+.header{
+  position: absolute;
+  width: 1288px;
+  height: 70px;
+  left: 26px;
+  top: 0px;
+  
+  background: #FFFFFF;
+
+}
+
+
+
+
+
+.titulo{
+
+  position: absolute;
+  width: 108px;
+  height: 18px;
+  left: 156px;
+  top: 26px;
+  
+  font-family: 'Taviraj';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 100.1%;
+  /* identical to box height, or 18px */
+  
+  
+  color: #000000;
+}
+
+
+
+.home{
+  position: absolute;
+  width: 40px;
+  height: 17px;
+  left: 498px;
+  top: 26px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  text-transform: capitalize;
+  
+  color: #000000;
+
+}
+
+.departamentos{
+  position: absolute;
+  width: 102px;
+  height: 17px;
+  left: 602px;
+  top: 26px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  text-transform: capitalize;
+  
+  color: #000000;
+}
+
+.sobre{
+
+  position: absolute;
+  width: 39px;
+  height: 17px;
+  left: 768px;
+  top: 26px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  text-transform: capitalize;
+  
+  color: #000000;
+}
+
+.contatos{
+
+  position: absolute;
+  width: 53px;
+  height: 17px;
+  left: 871px;
+  top: 26px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  text-transform: capitalize;
+  
+  color: #000000;
+  
+}
+
+
+
+.lupa{
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 1170px;
+  top: 23px;
+  
+  background: url(./image\ 53\ \(1\).svg);
+
+
+
+}
+
+.cart{
+  position: absolute;
+width: 18px;
+height: 18px;
+left: 1208px;
+top: 23px;
+
+background: url(./image\ 54.svg);
+}
+
+.conta{
+  position: absolute;
+width: 18px;
+height: 18px;
+left: 1246px;
+top: 23px;
+
+background: url(./image\ 56.svg);
+}
+
+
+
+.escritanaimagemsala{
+  width: 640px;
+  height: 192px;
+  left: 116px;
+  top: 172px;
+  
+  font-family: 'Taviraj';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 100.1%;
+ position: absolute;
+  
+  
+  color: #000000;
+}
+
+.botaocompreagora{
+  position: absolute;
+width: 208px;
+height: 69px;
+left: 116px;
+top: 404px;
+
+background: #734223;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+border: transparent;
+
+color: #FFFFFF;
+}
+
+.qualidade{
+  position: absolute;
+width: 180px;
+height: 24px;
+left: 215px;
+top: 802px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 100.1%;
+/* identical to box height, or 24px */
+
+color: #000000;
+}
+
+.frete{
+  position: absolute;
+width: 144px;
+height: 24px;
+left: 623px;
+top: 802px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 100.1%;
+/* identical to box height, or 24px */
+
+
+color: #000000;
+}
+
+.atendimento{
+  position: absolute;
+width: 162px;
+height: 24px;
+left: 1031px;
+top: 802px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 100.1%;
+/* identical to box height, or 24px */
+
+
+color: #000000;
+}
+
+.subqualidade{ 
+  position: absolute;
+width: 219px;
+height: 46px;
+left: 215px;
+top: 841px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* or 23px */
+
+
+color: #000000;
+}
+
+.subfrete{
+  position: absolute;
+width: 219px;
+height: 46px;
+left: 623px;
+top: 841px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+
+.subatendimento{
+  position: absolute;
+width: 238px;
+height: 46px;
+left: 1031px;
+top: 841px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+
+.IconeQualidade{
+ position: absolute;
+ width: 180px;
+ height: 24px;
+ left: 170px;
+ top: 780px;
+
+}
+
+.iconfrete{
+  position: absolute;
+  width: 180px;
+  height: 24px;
+  left: 580px;
+  top: 780px;
+}
+
+.icontelefone{
+  position: absolute;
+  width: 180px;
+  height: 24px;
+  left: 985px;
+  top: 780px;
+}
+
+
+.departamentosabaixo{
+  
+position: absolute;
+width: 281px;
+height: 36px;
+left: 116px;
+top: 1046px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 100.1%;
+/* identical to box height, or 36px */
+
+
+color: #000000;
+}
+
+.blocoqualidade{
+  position: absolute;
+  width: 392px;
+  height: 169px;
+  left: 116px;
+  top: 757px;
+  
+  background: #F6F7FB; }
+
+  .blocofrete{
+    position: absolute;
+width: 392px;
+height: 169px;
+left: 524px;
+top: 757px;
+
+background: #F6F7FB;
+  }
+
+  .blocoatendimento {
+    position: absolute;
+width: 392px;
+height: 169px;
+left: 932px;
+top: 757px;
+
+background: #F6F7FB;
+}
+
+.blococadeira{
+  box-sizing: border-box;
+
+position: absolute;
+width: 201px;
+height: 100px;
+left: 116px;
+top: 1122px;
+
+background: #F6F7FB;
+
+}
+
+.blococadeira:hover{
+  border: 2px solid #734223;
+}
+
+.blocosofa{
+  position: absolute;
+width: 201px;
+height: 100px;
+left: 317px;
+top: 1122px;
+
+background: #F6F7FB;
+}
+
+.blocoiluminacao{
+  position: absolute;
+width: 201px;
+height: 100px;
+left: 518px;
+top: 1122px;
+
+background: #F6F7FB;
+}
+
+.blocomesa{
+  position: absolute;
+width: 201px;
+height: 100px;
+left: 719px;
+top: 1122px;
+
+background: #F6F7FB;
+}
+
+.blocoarmario{
+  position: absolute;
+width: 201px;
+height: 100px;
+left: 920px;
+top: 1122px;
+
+background: #F6F7FB;
+
+}
+
+.blocoacessorio{
+  position: absolute;
+width: 201px;
+height: 100px;
+left: 1121px;
+top: 1122px;
+
+background: #F6F7FB;
+}
+.cadeira{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 205px;
+top: 1148px;
+background: url(./poltrona.png);
+
+}
+
+.cadeirapalavra{
+  position: absolute;
+  width: 50px;
+  height: 23px;
+  left: 192px;
+  top: 1177px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 165%;
+
+  
+  
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.sofa {
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 406px;
+top: 1148px;
+ background: url(./image\ 61.svg);
+}
+
+.sofapalavra{
+  position: absolute;
+width: 30px;
+height: 23px;
+left: 403px;
+top: 1177px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* identical to box height, or 23px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.iluminacao{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 607px;
+top: 1148px;
+
+background: url(./image\ 62.svg);
+}
+
+.iluminacaopalavra{
+  position: absolute;
+width: 72px;
+height: 23px;
+left: 583px;
+top: 1177px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* identical to box height, or 23px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.mesa {
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 808px;
+top: 1148px;
+
+background: url(./image\ 63.svg);
+}
+
+.mesapalavra{
+  
+position: absolute;
+width: 34px;
+height: 23px;
+left: 803px;
+top: 1177px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* identical to box height, or 23px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.armario{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 1009px;
+top: 1148px;
+
+background: url(./image\ 64.svg);
+}
+
+.armariopalavra{
+  position: absolute;
+width: 52px;
+height: 23px;
+left: 995px;
+top: 1177px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.acessorio{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 1210px;
+top: 1148px;
+
+background: url(./image\ 65.svg);
+}
+
+.acessoriopalavra{
+  position: absolute;
+width: 72px;
+height: 23px;
+left: 1186px;
+top: 1177px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+
+
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.setaparaesquerda{
+ 
+  border-radius: 0px;
+
+  position: absolute;
+width: 13px;
+height: 9.5px;
+left: 68px;
+top: 1648px;
+
+
+
+
+
+background: url(./Icon.svg);
+
+}
+
+
+.sofa1{
+  height: 375px;
+  width: 267px;
+  left: 116px;
+  top: 1418px;
+  border-radius: 0px;
+  position: absolute;
+
+
+background: url(./modern-green-sofa-with-pillows-in-spacious-room-2021-09-03-01-37-22-utc\ 1.svg);
+
+}
+
+.tituloprodutos{
+  
+position: absolute;
+width: 302px;
+height: 36px;
+left: 569px;
+top: 1342px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+color: #000000;
+line-height: 100.1%;
+}
+
+
+.sofa2{
+  
+position: absolute;
+width: 266px;
+height: 375px;
+left: 430px;
+top: 1418px;
+
+background: url(./gray-wall-living-room-have-yellow-sofa-and-decorat-2021-09-03-10-48-38-utc\ 1.svg);
+}
+
+.cadeiraazul{
+  position: absolute;
+width: 266px;
+height: 375px;
+left: 744px;
+top: 1418px;
+background: url(./blue-chair-on-a-white-wall-background-in-an-empty-2021-09-10-15-16-11-utc\ 1.svg) ;
+
+}
+
+.cadeirapreta {
+  
+position: absolute;
+width: 267px;
+height: 375px;
+left: 1057px;
+top: 1418px;
+background: url(./black-chair-in-artist-s-workspace-2021-08-26-15-45-27-utc\ 1.svg);
+}
+
+
+.setadireita{
+  position: absolute;
+width: 20px;
+height: 30px;
+left: 1348px;
+top: 1648px;
+
+
+background: url(./Arrow\ right.png);
+}
+
+
+.sofa1legenda{
+  position: absolute;
+width: 162px;
+height: 37px;
+left: 136px;
+top: 1823px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 31px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.sofa2legenda{
+  position: absolute;
+width: 199px;
+height: 37px;
+left: 450px;
+top: 1823px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 31px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.sofa3legenda{
+  position: absolute;
+width: 187px;
+height: 37px;
+left: 764px;
+top: 1823px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 31px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.sofa4legenda{
+  position: absolute;
+width: 205px;
+height: 37px;
+left: 1077px;
+top: 1823px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 31px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+
+.preço1{
+  position: absolute;
+width: 91px;
+height: 28px;
+left: 136px;
+top: 1875px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+
+.preço2{
+  position: absolute;
+width: 95px;
+height: 28px;
+left: 450px;
+top: 1875px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.preço3{
+  position: absolute;
+width: 59px;
+height: 28px;
+left: 764px;
+top: 1875px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.preço4{
+  position: absolute;
+width: 74px;
+height: 28px;
+left: 1077px;
+top: 1875px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.botaovejamais{
+  position: absolute;
+  width: 208px;
+  height: 69px;
+  left: 616px;
+  top: 1963px;
+  
+  background-color:  #734223;
+
+
+  
+}
+
+.escritavejamais{
+  position: absolute;
+width: 78px;
+height: 21px;
+left: 681px;
+top: 1987px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+}
+
+.depoimentoescrito{
+  position: absolute;
+width: 241px;
+height: 36px;
+left: 116px;
+top: 2152px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 100.1%;
+/* identical to box height, or 36px */
+
+
+color: #000000;
+}
+
+.depo1{
+  box-sizing: border-box;
+
+position: absolute;
+width: 376px;
+height: 451px;
+left: 116px;
+top: 2252px;
+
+background: #F6F7FB;
+
+}
+
+.depo1:hover{
+  border: 2px solid #734223;
+}
+
+
+.depo2{
+  
+position: absolute;
+width: 376px;
+height: 451px;
+left: 532px;
+top: 2252px;
+
+background: #F6F7FB;
+}
+
+.depo3{
+  position: absolute;
+width: 376px;
+height: 451px;
+left: 948px;
+top: 2252px;
+
+background: #F6F7FB;
+}
+
+.frasedepo1{
+  position: absolute;
+width: 291px;
+height: 115px;
+left: 159px;
+top: 2402px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* or 23px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+.frasedepo2{
+  position: absolute;
+width: 291px;
+height: 115px;
+left: 575px;
+top: 2402px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* or 23px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+
+.frasedepo3{
+  position: absolute;
+width: 291px;
+height: 115px;
+left: 991px;
+top: 2402px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 165%;
+/* or 23px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.linhadepo1{
+  position: absolute;
+width: 122.5px;
+height: 0px;
+left: 162px;
+top: 2562px;
+
+border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.linhadepo2{
+  position: absolute;
+width: 122.5px;
+height: 0px;
+left: 578px;
+top: 2562px;
+
+border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.linhadepo3{
+  position: absolute;
+width: 122.5px;
+height: 0px;
+left: 994px;
+top: 2562px;
+
+border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.elipse1{
+
+
+
+position: absolute;
+width: 61px;
+height: 61px;
+left: 159px;
+top: 2592px;
+
+background: #A78A79;
+border-radius: 90px;
+}
+
+.elipse2{
+  position: absolute;
+width: 61px;
+height: 61px;
+background: #A78A79;
+border-radius: 90px;
+left: 575px;
+top: 2592px;
+}
+
+.elipse3{
+  position: absolute;
+width: 61px;
+height: 61px;
+background: #A78A79;
+border-radius: 90px;
+left: 991px;
+top: 2592px;
+
+}
+
+.autordepo1{
+  position: absolute;
+  width: 109px;
+  height: 17px;
+  left: 234px;
+  top: 2603px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+}
+
+.autordepo2{
+  position: absolute;
+width: 118px;
+height: 17px;
+left: 650px;
+top: 2603px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.autordepo3{
+  position: absolute;
+width: 118px;
+height: 17px;
+left: 1066px;
+top: 2603px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.autorInfodepo1{
+  position: absolute;
+width: 85px;
+height: 14px;
+left: 234px;
+top: 2625px;
+
+font-family: 'Rubik';
+font-style: italic;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+.autorInfodepo2{
+  position: absolute;
+width: 113px;
+height: 14px;
+left: 650px;
+top: 2625px;
+
+font-family: 'Rubik';
+font-style: italic;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.autorInfodepo3{
+  position: absolute;
+width: 103px;
+height: 14px;
+left: 1066px;
+top: 2625px;
+
+font-family: 'Rubik';
+font-style: italic;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.aspasdepo1{
+  position: absolute;
+width: 114px;
+height: 0px;
+left: 248px;
+top: 2276px;
+
+/* identical to box height, or 0px */
+
+
+color: rgba(115, 66, 35, 0.6);
+
+
+
+}
+
+.aspasdepo2{
+  position: absolute;
+  width: 114px;
+  height: 0px;
+left: 664px;
+top: 2276px;
+color: rgba(115, 66, 35, 0.6);
+
+
+
+
+
+
+}
+
+.aspasdepo3{
+  position: absolute;
+  width: 114px;
+  height: 0px;
+left: 1076px;
+top: 2276px;
+color: rgba(115, 66, 35, 0.6);
+}
+
+
+.newsletter{
+  position: absolute;
+width: 440px;
+height: 36px;
+left: 500px;
+top: 2951px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 100.1%;
+/* identical to box height, or 36px */
+
+
+color: #000000;
+}
+
+
+
+.textonewsletter{
+  position: absolute;
+width: 344px;
+height: 40px;
+left: 548px;
+top: 3002px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+.fundonewsletter{
+  position: absolute;
+  width: 1208px;
+  height: 430px;
+  left: 116px;
+  top: 2823px;
+
+background: #F6F7FB;
+}
+
+.emailnewsletter{
+  position: absolute;
+width: 416px;
+height: 53px;
+left: 428px;
+top: 3072px;
+
+background: #FFFFFF;
+border: transparent;
+
+}
+
+.assinenewsletterbotao{
+  position: absolute;
+  width: 168px;
+  height: 53px;
+  left: 848px;
+  top: 3072px;
+  
+  background: #734223;
+
+
+
+}
+.assinepalavra{
+  position: absolute;
+width: 46px;
+height: 20px;
+left: 905px;
+top: 3088px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+
+color: white;
+}
+
+.emailnewsletterfrase{
+  position: absolute;
+width: 64px;
+height: 20px;
+left: 458px;
+top: 3089px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+
+.fundofooter{
+  position: absolute;
+width: 1450px;
+height: 339px;
+left: -10px;
+top: 3373px;
+
+background: #F6F7FB;
+}
+
+.titulofim{
+  position: absolute;
+width: 144px;
+height: 24px;
+left: 116px;
+top: 3453px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 100.1%;
+/* identical to box height, or 24px */
+
+
+color: #000000;
+
+}
+
+.titulodescricao{
+  position: absolute;
+  width: 376px;
+  height: 63px;
+  left: 116px;
+  top: 3492px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150.6%;
+  /* or 21px */
+  
+  
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.Suportefim{
+  position: absolute;
+  width: 57px;
+  height: 14px;
+  left: 740px;
+  top: 3453px;
+  
+  font-family: 'Taviraj';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 100.1%;
+  /* identical to box height, or 14px */
+  
+  
+  color: #000000;
+}
+
+.LGDP{
+  
+position: absolute;
+width: 31px;
+height: 17px;
+left: 740px;
+top: 3487px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+.pagamentofim{
+  position: absolute;
+width: 65px;
+height: 17px;
+left: 740px;
+top: 3514px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+
+.entregafim{
+  position: absolute;
+width: 45px;
+height: 17px;
+left: 740px;
+top: 3541px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+
+.Trocasedevoluções{
+  position: absolute;
+width: 114px;
+height: 17px;
+left: 740px;
+top: 3568px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+.institucional{
+  position: absolute;
+width: 92px;
+height: 14px;
+left: 948px;
+top: 3454px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 100.1%;
+/* identical to box height, or 14px */
+
+
+color: #000000;
+
+}
+
+.homefim{
+  position: absolute;
+width: 33px;
+height: 17px;
+left: 948px;
+top: 3487px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.departamentofim{
+  position: absolute;
+width: 87px;
+height: 17px;
+left: 948px;
+top: 3514px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+
+}
+.sobrefim{
+  
+position: absolute;
+width: 33px;
+height: 17px;
+left: 948px;
+top: 3541px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+.contatofim{
+  position: absolute;
+  width: 45px;
+  height: 17px;
+  left: 948px;
+  top: 3568px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  /* identical to box height, or 17px */
+  
+  
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.midiasocial{
+  position: absolute;
+width: 87px;
+height: 14px;
+left: 1156px;
+top: 3454px;
+
+font-family: 'Taviraj';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 100.1%;
+/* identical to box height, or 14px */
+
+
+color: #000000;
+
+}
+
+
+.facebookcontato{
+  position: absolute;
+  width: 54px;
+  height: 17px;
+  left: 1156px;
+  top: 3487px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  /* identical to box height, or 17px */
+  
+  
+  color: rgba(0, 0, 0, 0.8);
+  
+}
+
+
+.IGcontato{
+  position: absolute;
+  width: 57px;
+  height: 17px;
+  left: 1156px;
+  top: 3514px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  /* identical to box height, or 17px */
+  
+  
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.twittercontato{
+ 
+position: absolute;
+width: 40px;
+height: 17px;
+left: 1156px;
+top: 3541px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+
+}
+
+.YouTubecontato{
+  position: absolute;
+  width: 47px;
+  height: 17px;
+  left: 1156px;
+  top: 3568px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  /* identical to box height, or 17px */
+  
+  
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.direitosfrase{
+
+  position: absolute;
+  width: 358px;
+  height: 17px;
+  left: 541px;
+  top: 3665px;
+  
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  /* identical to box height, or 17px */
+  
+  text-align: center;
+  
+  color: rgba(0, 0, 0, 0.6);
+}
+
+
